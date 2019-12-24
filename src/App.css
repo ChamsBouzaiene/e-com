@@ -1,0 +1,7 @@
+.App {
+  display: grid;
+  grid-template-areas: "header header header header header header" "menu main main main main main" "menu main main main main main";
+  grid-gap: 1px;
+  /* background-color: #2196F3; */
+  padding: 5px;
+}

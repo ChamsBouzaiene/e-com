@@ -1,0 +1,7 @@
+.prod-count {
+  color: yellow;
+  font-weight: bold;
+  font-size: 20px;
+  border: 2px solid white;
+  border-radius: 50px;
+}

@@ -1,0 +1,23 @@
+.item-table {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: solid;
+}
+
+.col {
+  border-right: solid;
+  width: 33%;
+  border-bottom: double;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.delete {
+  color: brown;
+  cursor: pointer;
+  border-bottom: double;
+}

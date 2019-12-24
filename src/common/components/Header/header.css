@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 50px;
+  align-items: center;
+  background: #26408b;
+  height: 6vh;
+  color: #c2e7d9;
+  border-bottom: solid;
+  grid-area: header;
+}
+
+.header-sidebar {
+  display: flex;
+}
+
+.header-hamburger {
+  cursor: pointer;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+}

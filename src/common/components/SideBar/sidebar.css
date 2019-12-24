@@ -1,0 +1,21 @@
+.sidebar {
+  display: flex;
+
+  padding: 0 50px;
+  flex-direction: column;
+  align-items: center;
+  background: #a6cfd5;
+  height: 100vh;
+  width: 10vw;
+  color: #26408b;
+  border-bottom: solid;
+  grid-area: menu;
+}
+
+.no-sidebar {
+  display: none;
+}
+
+.sidebar-title {
+  padding: 20px;
+}
